@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    background-color: lightskyblue;
+}
+
+.vertical-centered{
+    padding: 2em;
+    max-width: 50%;
+    background-color: black;
+    color:lightseagreen;
+    
+}
+
+#clock{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    }
